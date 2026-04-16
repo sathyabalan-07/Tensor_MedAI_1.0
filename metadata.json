@@ -1,0 +1,6 @@
+{
+  "name": "Tensor MedAI",
+  "description": "An AI-powered medical report summarizer that extracts key findings, identifies abnormal values, and tracks patient health history over time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
